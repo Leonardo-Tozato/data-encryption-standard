@@ -1,7 +1,7 @@
 /*
 * Implementacao DES
 * Autores : Leonardo Muniz Tozato - Felipe Lopes Rita
-* RA : 620483 - ??????
+* RA : 620483 - 613762
 */
 
 #include <bits/stdc++.h>
